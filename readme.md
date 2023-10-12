@@ -7,4 +7,4 @@
                 * dwg -> component information extraction
                 * 단순한 입력으로 도면 생성 하기 
                 * Comment : 5학기 하거나 지도교수 바꿔라
-이거 한달안에 어케함
+> 이거 한달안에 어케함
