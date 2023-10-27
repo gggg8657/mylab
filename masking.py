@@ -1,0 +1,7 @@
+f=open('data.py','r')
+line = f.read()
+print(line)
+f.close()
+jf = open("tmp.json", 'w')
+jf.write(line)
+jf.close()
